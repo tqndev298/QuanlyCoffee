@@ -1,0 +1,12 @@
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManger.resources
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+C:\Users\tranq\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
